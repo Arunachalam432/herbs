@@ -1,0 +1,123 @@
+body{
+  margin: 0px;
+  font-family: cursive;
+}
+.sec1{
+  background-image: url(https://livedemo00.template-help.com/wt_51557/images/slider-2-1920x729.jpg);
+  height: 550px;
+  width: 1349px;
+  color: #f1f1f1;
+  background-size: cover;
+}
+.home{
+  width: 50%;
+  padding-top: 80px;
+  padding-left: 120px;
+  font-size: 30px;
+}
+.nav{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: #f1f1f1;
+  width: 100%;
+}
+.p1{
+  text-align: justify;
+  line-height: 50px;
+  font-size: 20px;
+}
+h1{
+  background-color: #f1f1f1;
+  color: #282A35;
+  margin: 0px;
+  width: 65%;
+  padding-bottom: 3px;
+  padding-top: 4px;
+  padding-left: 16px;
+  float: left;
+}
+ul {
+  width: 33%;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #f1f1f1;
+
+  margin-left: 50%;
+}
+li {
+  float: left;
+}
+li a {
+  display: block;
+  color: #282A35;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  color: white;
+  background-color: #868e96;
+}
+.sign{
+  padding-top: 30px;
+  padding-bottom: 40px;
+  font-family: sans-serif;
+  text-align: center;
+  font-size: 25px;
+  background-color: #f1f1f1;
+}
+button{
+  padding: 10px 10px;
+  border-radius: 20px;
+  background-color: #FFC0C7;
+  color: black;
+  border: none;
+  font-size: 20px;
+}
+button:hover{background-color: rgb(236, 35, 119);}
+input{
+  border-style: inset;
+  border-width: medium;
+}
+h2{
+  color: rgb(236, 35, 119);
+}
+.price{
+  width: 50%;
+  margin: auto;
+  text-align: center;
+  background-color: white;
+}
+h5{
+  font-family: sans-serif;
+  font-size: 20px;
+}
+table{
+  border-spacing: 50px;
+}
+td img{
+  background-color: #f1f1f1;
+}
+#contact{text-align: center;}
+.bottom {
+    margin-top: 50px;
+    background-color: rgb(236, 35, 119);
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+    font-family: sans-serif;
+}
+.bottom a{
+    text-decoration: none;
+    color: white;
+    padding: 20px;}
+a:hover {
+    color: #0a58ca;
+}
+.l {
+    margin-top: 30px;
+}
+.l:hover{color: yellow;}
