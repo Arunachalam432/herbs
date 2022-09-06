@@ -1,3 +1,6 @@
+html{
+  scroll-behaviour: smooth;
+}
 body{
   margin: 0px;
   font-family: cursive;
@@ -5,7 +8,6 @@ body{
 .sec1{
   background-image: url(https://livedemo00.template-help.com/wt_51557/images/slider-2-1920x729.jpg);
   height: 550px;
-  width: 1349px;
   color: #f1f1f1;
   background-size: cover;
 }
@@ -86,8 +88,6 @@ h2{
   color: rgb(236, 35, 119);
 }
 .price{
-  width: 50%;
-  margin: auto;
   text-align: center;
   background-color: white;
 }
@@ -97,6 +97,8 @@ h5{
 }
 table{
   border-spacing: 50px;
+  margin-left:auto;
+  margin-right: auto;
 }
 td img{
   background-color: #f1f1f1;
